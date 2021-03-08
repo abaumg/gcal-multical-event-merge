@@ -5,6 +5,7 @@
 // @include     http://www.google.com/calendar/*
 // @include     https://calendar.google.com/*
 // @include     http://calendar.google.com/*
+// @require     https://raw.githubusercontent.com/imightbeamy/gcal-multical-event-merge/master/chroma.min.js
 // @version     1
 // @grant       none
 // ==/UserScript==
